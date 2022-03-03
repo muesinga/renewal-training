@@ -30,6 +30,8 @@ table {
 
 figcaption {
     text-align: center;
+    /* display: table-caption;
+    caption-side: top; */
 }
 
 .example-1 {
