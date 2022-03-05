@@ -103,8 +103,8 @@ figcaption {
 }
 
 .anchovy-face {
-    max-width: 10%;
-    float: left;
+    max-width: 50%;
+    /* float: left; */
 }
 
 /* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
