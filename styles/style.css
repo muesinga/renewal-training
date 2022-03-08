@@ -108,9 +108,7 @@ figcaption {
 }
 
 .rainbow-gradient {
-    background-color: #7fd82b;
-    background-image: linear-gradient(319deg, #7fd82b 0%, #ef4063 37%, #e557c6 100%);
-}
+    background-image: linear-gradient(to right, #00b09b, #96c93d);}
 
 .transparent {
     background-color: transparent;
@@ -120,6 +118,10 @@ figcaption {
     overflow: hidden;
     outline: none;
 }
+
+.box {
+    margin: 0 5em 0 5em;
+  }
 
 /* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
