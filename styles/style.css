@@ -108,7 +108,8 @@ figcaption {
 }
 
 .rainbow-gradient {
-    background-image: linear-gradient(to right, #00b09b, #96c93d);}
+    background-image: linear-gradient( 95.2deg, rgba(173,252,234,1) 26.8%, rgba(192,229,246,1) 64% );
+}
 
 .transparent {
     background-color: transparent;
@@ -123,6 +124,9 @@ figcaption {
     margin: 0 5em 0 5em;
   }
 
+.outline {
+    outline-style: solid;
+}
 /* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
