@@ -34,6 +34,14 @@ figcaption {
     caption-side: top; */
 }
 
+/* ul {
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+} */
+
 .example-1 {
     width: 100%;
 }
@@ -103,7 +111,7 @@ figcaption {
 }
 
 .anchovy-face {
-    max-width: 50%;
+    max-width: 33%;
     /* float: left; */
 }
 
@@ -124,9 +132,28 @@ figcaption {
     margin: 0 5em 0 5em;
   }
 
-.outline {
-    outline-style: solid;
+#timeline {
+    margin-left: 30px;
 }
+
+#resources {
+    margin-right: 30px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    /* background-color: #2196F3; */
+    padding: 10px;
+  }
+  .grid-item {
+    /* background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px; */
+    /* text-align: center; */
+  }
+
 /* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
