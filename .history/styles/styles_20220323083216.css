@@ -42,8 +42,8 @@ ol {
     text-align: center;
 } */
 
-/* ul { list-style-image: url(/assets/image/ama-cat.png);} */
-table { border-collapse: collapse;}
+ul { list-style-image: url();}
+
 .example-1 {
     width: 100%;
 }

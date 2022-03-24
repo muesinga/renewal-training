@@ -42,7 +42,7 @@ ol {
     text-align: center;
 } */
 
-/* ul { list-style-image: url(/assets/image/ama-cat.png);} */
+ul { list-style-image: url(/assets/image/ama-cat.png);}
 table { border-collapse: collapse;}
 .example-1 {
     width: 100%;

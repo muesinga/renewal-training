@@ -42,8 +42,6 @@ ol {
     text-align: center;
 } */
 
-/* ul { list-style-image: url(/assets/image/ama-cat.png);} */
-table { border-collapse: collapse;}
 .example-1 {
     width: 100%;
 }
@@ -112,7 +110,7 @@ table { border-collapse: collapse;}
     width: 25%;
 }
 
-.cat {
+.anchovy-face {
     max-width: 33%;
     /* float: left; */
 }
